@@ -4,3 +4,4 @@ console.log("TS");
 
 //Bug
 console.log("resolved");
+console.log("resolved 2");
